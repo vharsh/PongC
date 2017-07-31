@@ -1,6 +1,7 @@
 #include <ncurses.h>
 #include <sys/time.h>
 #include <stdlib.h>
+#include <time.h>
 
 // The number of milliseconds between ticks to the ball and opponent.
 #define TICK_DELAY 50
